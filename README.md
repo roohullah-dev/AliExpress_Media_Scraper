@@ -29,15 +29,6 @@ Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 --> Requests for Image Downloading
 --> XPath / Class Selectors for DOM Targeting
 
-📁 Output Structure:
-Each product gets its own folder:
-product_1/
-
-
-├── product_1_url.txt         # Saved product URL
-├── image_1.jpg               # First thumbnail image
-├── image_2.jpg               # Second image
-└── ...
 
 🚀 How It Works:
 Reads product URLs from aliexpress_products.csv.
@@ -58,7 +49,7 @@ Need a custom scraping solution for AliExpress, Amazon, or any other e-commerce 
 💼 I’m available for freelance projects!
 
 📧 Contact Me:
-====> Email: roohanitech121@gmail.com 
-====> Fiverr: fiverr.com/users/roohullah2020
+Email: roohanitech121@gmail.com 
+Fiverr: fiverr.com/users/roohullah2020
 
 Let’s automate your next e-commerce scraping project! 🤖✨
