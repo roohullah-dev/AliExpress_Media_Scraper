@@ -1,4 +1,5 @@
---------------------------------------🛒 AliExpress Image Scraper--------------------------------------
+--------------------------------------🛒 AliExpress Image Scraper--------------------------------------     
+
 A dedicated Python-based scraper that automatically extracts high-resolution product images from AliExpress product pages. Built with Selenium, it simulates human-like behavior to click image thumbnails, bypass CAPTCHA challenges, and download images into organized folders—ideal for e-commerce automation and competitor analysis.
 
 🧰 Features:
