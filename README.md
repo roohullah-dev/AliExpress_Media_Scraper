@@ -21,7 +21,6 @@ Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 
 
 🛠️ Technologies Used:
----> Hello
 --> Python 3.9+
 --> Selenium WebDriver
 --> Chrome WebDriver (Headed/Headless)
