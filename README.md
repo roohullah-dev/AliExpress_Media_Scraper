@@ -3,7 +3,6 @@
 A dedicated Python-based scraper that automatically extracts high-resolution product images from AliExpress product pages. Built with Selenium, it simulates human-like behavior to click image thumbnails, bypass CAPTCHA challenges, and download images into organized folders—ideal for e-commerce automation and competitor analysis.
 
 🧰 Features:
-
 1) 📥 Product Image Download
 Extracts and saves all high-resolution product images from AliExpress pages.
 2) 🔗 Multiple URL Support
@@ -21,14 +20,13 @@ Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 
 
 🛠️ Technologies Used:
-
-1- Python 3.9+
-2- Selenium WebDriver
-3- Chrome WebDriver (Headed/Headless)
-4- WebDriver Manager
-5- Pandas for CSV Handling
-6- Requests for Image Downloading
-7- XPath / Class Selectors for DOM Targeting
+1- Python 3.9+.
+2- Selenium WebDriver.
+3- Chrome WebDriver (Headed/Headless).
+4- WebDriver Manager.
+5- Pandas for CSV Handling.
+6- Requests for Image Downloading.
+7- XPath / Class Selectors for DOM Targeting.
 
 
 🚀 How It Works:
