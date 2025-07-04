@@ -19,7 +19,7 @@ Each product’s images and URL are saved in their own folder (product_1, produc
 Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 
 
-🛠️ Technologies Used:
+🛠️ Technologies Used:      
 1- Python 3.9+,  
 2- Selenium WebDriver,   
 3- Chrome WebDriver (Headed/Headless),      
