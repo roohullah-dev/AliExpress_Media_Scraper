@@ -21,13 +21,13 @@ Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 
 🛠️ Technologies Used:
 
-Python 3.9+,  
-Selenium WebDriver,   
-Chrome WebDriver (Headed/Headless),      
-WebDriver Manager,      
-Pandas for CSV Handling,     
-Requests for Image Downloading,      
-XPath / Class Selectors for DOM Targeting.
+1- Python 3.9+,  
+2- Selenium WebDriver,   
+3- Chrome WebDriver (Headed/Headless),      
+4- WebDriver Manager,      
+5- Pandas for CSV Handling,     
+6- Requests for Image Downloading,      
+7- XPath / Class Selectors for DOM Targeting.
 
 
 🚀 How It Works:
