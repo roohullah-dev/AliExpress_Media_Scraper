@@ -22,19 +22,13 @@ Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 
 🛠️ Technologies Used:
 
---> Python 3.9+
-
---> Selenium WebDriver
-
---> Chrome WebDriver (Headed/Headless)
-
---> WebDriver Manager
-
---> Pandas for CSV Handling
-
---> Requests for Image Downloading
-
---> XPath / Class Selectors for DOM Targeting
+1- Python 3.9+
+2- Selenium WebDriver
+3- Chrome WebDriver (Headed/Headless)
+4- WebDriver Manager
+5- Pandas for CSV Handling
+6- Requests for Image Downloading
+7- XPath / Class Selectors for DOM Targeting
 
 
 🚀 How It Works:
@@ -46,19 +40,17 @@ Extracts the full-size image source (src) of each.
 Downloads and saves them in structured folders.
 Handles reCAPTCHA frames and popups when detected.
 
+
 📸 Sample Use Case:
 Want to extract all images of cabinet knobs or dresses listed on AliExpress?
 Just paste their product URLs into the CSV—this script automates the rest!
 
 📩 Hire Me:
-
 Need a custom scraping solution for AliExpress, Amazon, or any other e-commerce platform?
-
 💼 I’m available for freelance projects!
 
 📧 Contact Me:
 Email: roohanitech121@gmail.com 
-
-Fiverr: fiverr.com/users/roohullah2020/ 
+Fiverr: https://www.fiverr.com/sellers/roohullah2020/
 
 Let’s automate your next e-commerce scraping project! 🤖✨
