@@ -30,7 +30,8 @@ Detects and closes annoying pop-ups automatically for uninterrupted scraping.
 7- XPath / Class Selectors for DOM Targeting.
 
 
-🚀 How It Works:
+🚀 How It Works:    
+
 Reads product URLs from aliexpress_products.csv.
 Starts a Chrome browser session with anti-bot flags.
 Navigates to each product URL.
@@ -41,14 +42,17 @@ Handles reCAPTCHA frames and popups when detected.
 
 
 📸 Sample Use Case:
+
 Want to extract all images of cabinet knobs or dresses listed on AliExpress?
 Just paste their product URLs into the CSV—this script automates the rest!
 
 📩 Hire Me:
+
 Need a custom scraping solution for AliExpress, Amazon, or any other e-commerce platform?
 💼 I’m available for freelance projects!
 
 📧 Contact Me:
+
 Email: roohanitech121@gmail.com 
 Fiverr: https://www.fiverr.com/sellers/roohullah2020/
 
